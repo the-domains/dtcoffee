@@ -1,0 +1,28 @@
+name: dtcoffee
+favicon: null
+layout_spectrum: 0.33308686409145594
+typography_spectrum: 0.6763259640429169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.05663290852680802
+  lightness: 0.14143249113112688
+  saturation: 0.7903610442299396
+  rhythmicContrast: 0.2206417506095022
+purpose: []
