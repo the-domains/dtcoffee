@@ -1,29 +1,41 @@
-name: dtcoffee
-favicon: null
-layout_spectrum: 0.33308686409145594
-typography_spectrum: 0.6763259640429169
-title: Downtown Coffee Honolulu
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3330868640914559
+title: Downtown Coffee Honolulu
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.7903610442299396
+  brandStrength: 0.05663290852680802
+  rhythmicContrast: 0.2206417506095022
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.05663290852680802
-  lightness: 0.14143249113112688
-  saturation: 0.7903610442299396
-  rhythmicContrast: 0.2206417506095022
+  lightness: 0.1414324911311269
 purpose: []
+favicon: null
+name: dtcoffee
+typography_spectrum: 0.6763259640429169
